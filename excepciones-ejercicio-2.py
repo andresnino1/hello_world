@@ -17,8 +17,9 @@ def divide():
 
 	
 
-
-
 	print("calculo finalizado")
+	print("nueva linea de codigo para github")
+	print("otra nueva linea de código")
+	print("otra nueva linea tres de código")
 
 divide()
