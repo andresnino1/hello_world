@@ -15,3 +15,10 @@ COOL!!
 new comment in this file, in order to check the push feature
 
 NEW LINE FROM GITHUB WEB
+
+
+prueba de los snapshuts en github
+
+test of snapshoot in github -- how does it work?
+
+i did another change here
