@@ -10,6 +10,6 @@ if I change this I get new file on github?
 ----------------------------------
 This is the new work on the new branch
 I really want to make something awesome in this project
-cool!!
+COOL!!
 
 new comment in this file, in order to check the push feature
