@@ -7,3 +7,4 @@ I alwas was interested in learn how to program. I have done a few things in the 
 That is why I am here, learning Github 
 
 this is new comment to check how this thig works
+if I change this I get new file on github?
